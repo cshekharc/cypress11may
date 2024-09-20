@@ -1,0 +1,26 @@
+{
+  "name": "cypress11may",
+  "version": "1.0.0",
+  "description": "Automation learing ",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "cy:parallel": "cypress-parallel -s cy:run -t 2 -d './cypress/e2e/UITest/*.js'"
+  },
+  "keywords": [
+    "Automation",
+    "cypress",
+    "POM"
+  ],
+  "author": "Velocity",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "12.7",
+    "cypress-parallel": "^0.14.0"
+  },
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "cypress-fixture-faker": "^1.0.4"
+  }
+}

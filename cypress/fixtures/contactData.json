@@ -1,0 +1,6 @@
+{
+    "firstName": "John",
+    "lastName": "abc",
+    "email": "john@example.com",
+    "comment" : "from the fixture file"
+}

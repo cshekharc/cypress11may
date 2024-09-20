@@ -1,0 +1,14 @@
+[
+    {
+        "clientName" : "chandra",
+        "clientEmail" : "abc12@example.com"
+    },
+    {
+        "clientName" : "shekhar",
+        "clientEmail" : "velocity121@example.com"
+    },
+    {
+        "clientName" : "vel",
+        "clientEmail" : "vel131@example.com"
+    }
+]

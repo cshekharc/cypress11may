@@ -1,0 +1,7 @@
+
+
+for id="value" -- #value is css locator
+
+for class="value" -- .value is css locator for class
+
+attribute="value" -- [attribute="value"] is the css locator

@@ -1,0 +1,18 @@
+Install Node js
+https://nodejs.org/en/download/ – Already installed
+
+Install VS Code: we will use this as IDE to write cypress script
+https://code.visualstudio.com/download – already installed
+
+Create folder for new project
+
+To install cypress use npm init on terminal - you should get package.json file in root
+
+Run npm init
+
+Then use command npm install --save-dev cypress@12.7   npm install cypress --save-dev
+
+In package.json we can check version of cypress - (latest cypress version you can see there.)
+
+Use npx cypress open command to open the test runner 
+With this test runner will get open
